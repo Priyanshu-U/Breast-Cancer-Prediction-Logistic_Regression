@@ -8,8 +8,8 @@ and contains a total of 569 different sample entries.
 ### About Fine needle aspiration
 Fine needle aspiration is a type of biospy procedure. In fine needle aspiration, a thin needle is inserted into an area of the abnormal appearing tissue or body fluid. As with other types of biopsies, the sample collected during fine needle aspiration can help make a diagnosis or rule out conidtions such as cancer.
 
-##Types of Tumors
-###Benign Tumors      
+## Types of Tumors
+### Benign Tumors      
 - Non-cancerous        
 - Capsulated           
 - Non-invasive                  
